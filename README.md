@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **Sliusar Daniil** 
+
+I'm network enthusiast and entrepreneur with over 7 years of experience, 
+strong in programming, and managing skills, passionate to solve complex 
+tasks and get things done. 
+
+**Contacts:**
+- [Email](mailto://sliusardaniil@gmail.com)
+- [LinkedIn](linkedin.com/in/daniil-sliusar-700988b0/)
