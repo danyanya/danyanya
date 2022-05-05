@@ -23,4 +23,4 @@ tasks and get things done.
 
 **Contacts:**
 - [Email](mailto://sliusardaniil@gmail.com)
-- [LinkedIn](linkedin.com/in/daniil-sliusar-700988b0/)
+- [LinkedIn](https://linkedin.com/in/daniil-sliusar-700988b0/)
