@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **danyanya/danyanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Sliusar Daniil** 
-
-I'm network enthusiast and entrepreneur with over 7 years of experience, 
-strong in programming, and managing skills, passionate to solve complex 
-tasks and get things done. 
+I'm **Daniil Sliusar** - a network enthusiast and entrepreneur with over 10 years of experience, strong in programming, and managing skills, and passionate about solving complex tasks and getting things done. 
 
 **Contacts:**
 - [Email](mailto://sliusardaniil@gmail.com)
