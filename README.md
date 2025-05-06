@@ -1,21 +1,19 @@
-### Hi there
+### Hi there!
 
-<!--
-**danyanya/danyanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danya, a CTO with a Master's degree in CS. For the past 10 years, I've been building Wimark Systems - we develop software for large Wi-Fi networks, similar to Cisco & Meraki for Wi-Fi, but from Russia.
 
-Here are some ideas to get you started:
+I've traveled an exciting path from Backend Developer to leading a team of 60 people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I combine the skills of a technical engineer capable of effectively managing people and projects, and a product strategist. I enjoy growing and developing productive cross-functional teams with a healthy atmosphere.
 
-I'm **Daniil Sliusar** - a network enthusiast and entrepreneur with over 10 years of experience, strong in programming, and managing skills, and passionate about solving complex tasks and getting things done. 
+My expertise covers, but is not limited to:
+
+- development - Golang/C/Lua/Python, networking and protocols (Wi-Fi, LTE, MPTCP, MQTT), embedded, cloud, DevOps/DevSecOps, AI/ML, Linux;
+- product work - roadmaps, T2M, PMF, custdev;
+- process management - agile, processes, timely delivery;
+- people management - hiring, mentoring, 1-1s, building personal learning programs.
+
+Feel free to reach out ❤️
 
 **Contacts:**
 - [Email](mailto://sliusardaniil@gmail.com)
